@@ -22,7 +22,7 @@
 
 7. **AutoEncoders_ConV.py**
    - Short Description: Script implementing convolutional autoencoders.
-   - Reference: Not provided.
+   - Reference:[Deep convolutional autoencoder-based lossy image compression](https://arxiv.org/pdf/1804.09535.pdf)
 
 8. **VAE_gumbel_softmax.py**
    - Short Description: Script implementing a variational autoencoder with the Gumbel-Softmax reparameterization trick.
