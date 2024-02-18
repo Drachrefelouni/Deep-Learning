@@ -1,4 +1,4 @@
-#Descriptions of each architecture 
+## Descriptions of each architecture 
 
 1. **EfficientNet V1**
    - Short Description: A highly efficient convolutional neural network architecture designed for resource-constrained scenarios.
@@ -40,4 +40,3 @@
     - Short Description: A convolutional neural network architecture characterized by a series of convolutional and pooling layers, known for its simplicity and effectiveness.
     - Reference: [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 
-Feel free to copy these descriptions into your README.md file to provide a brief overview of each architecture. Don't forget to update the references with the appropriate links to the original papers.
