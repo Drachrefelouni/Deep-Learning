@@ -1,4 +1,4 @@
-##Descriptions of each architecture 
+#Descriptions of each architecture 
 
 1. **EfficientNet V1**
    - Short Description: A highly efficient convolutional neural network architecture designed for resource-constrained scenarios.
