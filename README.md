@@ -113,8 +113,10 @@ Here are short descriptions of each file for your README.md:
 7. **Simple_GAN_tensorboard.py**
    - Short Description: Script implementing a simple GAN architecture with tensorboard visualization support.
 
-Contact: achref.el.ouni@outlook.fr
 8. **WGAN_MNIST.py**
    - Short Description: Script implementing a Wasserstein GAN (WGAN) for generating MNIST digit images.
    - Reference:[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
- 
+
+
+Contact: achref.el.ouni@outlook.fr
+
